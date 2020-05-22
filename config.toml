@@ -1,4 +1,4 @@
-baseurl = "http://localhost"
+baseurl = "https://roshni-agarwal.github.io/Bharsha/"
 title = "Binario"
 languageCode = "en-us"
 paginate = "12" # Number of elements per page in pagination
