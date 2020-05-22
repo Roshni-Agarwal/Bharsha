@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Binario</title>
+    <link>http://localhost/</link>
+    <description>Recent content on Binario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 May 2020 19:28:13 +0530</lastBuildDate>
+    
+	<atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost/contact/</link>
+      <pubDate>Fri, 22 May 2020 19:28:13 +0530</pubDate>
+      
+      <guid>http://localhost/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://localhost/about-us/</link>
+      <pubDate>Fri, 22 May 2020 19:25:35 +0530</pubDate>
+      
+      <guid>http://localhost/about-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>START UPS ADVISORY SERVICES</title>
+      <link>http://localhost/post/start-ups-advisory-services/</link>
+      <pubDate>Wed, 20 May 2020 20:22:34 +0530</pubDate>
+      
+      <guid>http://localhost/post/start-ups-advisory-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LISTED COMPANIES COMPLIANCE</title>
+      <link>http://localhost/post/listed-companies-compliance/</link>
+      <pubDate>Wed, 20 May 2020 20:21:26 +0530</pubDate>
+      
+      <guid>http://localhost/post/listed-companies-compliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APPEARANCES BEFORE REGULATORS</title>
+      <link>http://localhost/post/appearances-before-regulators/</link>
+      <pubDate>Wed, 20 May 2020 20:20:46 +0530</pubDate>
+      
+      <guid>http://localhost/post/appearances-before-regulators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FEMA NBFC</title>
+      <link>http://localhost/post/fema-nbfc/</link>
+      <pubDate>Wed, 20 May 2020 20:20:03 +0530</pubDate>
+      
+      <guid>http://localhost/post/fema-nbfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRADEMARK</title>
+      <link>http://localhost/post/trademark/</link>
+      <pubDate>Wed, 20 May 2020 20:18:29 +0530</pubDate>
+      
+      <guid>http://localhost/post/trademark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COMPANY LAW</title>
+      <link>http://localhost/post/company-law/</link>
+      <pubDate>Wed, 20 May 2020 20:17:48 +0530</pubDate>
+      
+      <guid>http://localhost/post/company-law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESI EPF REGISTRATION</title>
+      <link>http://localhost/post/esi-epf-registration/</link>
+      <pubDate>Wed, 20 May 2020 20:16:55 +0530</pubDate>
+      
+      <guid>http://localhost/post/esi-epf-registration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COMPUTERISED ACCOUNTING</title>
+      <link>http://localhost/post/computerised-accounting/</link>
+      <pubDate>Wed, 20 May 2020 20:14:21 +0530</pubDate>
+      
+      <guid>http://localhost/post/computerised-accounting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AUDITING</title>
+      <link>http://localhost/post/auditing/</link>
+      <pubDate>Wed, 20 May 2020 20:13:37 +0530</pubDate>
+      
+      <guid>http://localhost/post/auditing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INCOME TAX FILLING</title>
+      <link>http://localhost/post/income-tax-filling/</link>
+      <pubDate>Wed, 20 May 2020 20:11:19 +0530</pubDate>
+      
+      <guid>http://localhost/post/income-tax-filling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GST</title>
+      <link>http://localhost/post/gst/</link>
+      <pubDate>Wed, 20 May 2020 19:48:33 +0530</pubDate>
+      
+      <guid>http://localhost/post/gst/</guid>
+      <description>this is demo page.</description>
+    </item>
+    
+  </channel>
+</rss>
